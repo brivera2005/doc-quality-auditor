@@ -1,0 +1,21 @@
+OFFICE VISIT - Primary Care Follow-up
+
+Patient: 62-year-old male with Type 2 diabetes mellitus and hypertension.
+
+SUBJECTIVE: Reports improved energy. Denies chest pain. Current smoker - 10 cigarettes/day for 30 years.
+
+OBJECTIVE:
+Vitals: BP 142/88 mmHg, HR 72, BMI 31.2 kg/m²
+Labs reviewed: HbA1c 7.8% (drawn 2 weeks ago), eGFR 78, urine microalbumin 22 mg/g
+
+ASSESSMENT / PLAN:
+1. Type 2 DM - A1c above goal. Discussed intensification; continue metformin.
+2. HTN - elevated today. Plan: recheck BP in 4 weeks; home BP log; lifestyle counseling.
+3. Obesity - BMI 31.2. Discussed nutrition and physical activity goals; referral to dietitian.
+4. Tobacco - cessation counseling provided; nicotine patch discussed; quitline referral offered.
+
+Medication reconciliation performed with patient. Home medication list reviewed; no discrepancies.
+
+PHQ-9 administered today, score 4 (minimal). Result discussed with patient.
+
+Current medications: metformin 1000mg BID, lisinopril 20mg daily, atorvastatin 40mg nightly.
